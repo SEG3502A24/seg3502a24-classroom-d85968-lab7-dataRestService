@@ -1,3 +1,8 @@
+**COMPLETED BY:**
+
+**Student Name:** Lolita Inabeza  
+**Student Number:** 300218895
+
 # BookStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
