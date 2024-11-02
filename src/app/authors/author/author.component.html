@@ -1,0 +1,13 @@
+<div *ngIf="!submittedAuthor">
+  <h2>Sorry can't find the requested Author...</h2>
+</div>
+<div *ngIf="submittedAuthor">
+  <div class="row">
+    <div class="col-3">First name:</div>
+    <div class="col-9">{{ submittedAuthor.firstName }}</div>
+  </div>
+  <div class="row">
+    <div class="col-3">Last name:</div>
+    <div class="col-9">{{ submittedAuthor.lastName }}</div>
+  </div>
+</div>
